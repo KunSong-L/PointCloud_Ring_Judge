@@ -1,0 +1,3 @@
+/home/heming/Desktop/work_sk/cali_tool_choose/pointcloud_ring_judge_test/build/CMakeFiles/rebuild_cache.dir
+/home/heming/Desktop/work_sk/cali_tool_choose/pointcloud_ring_judge_test/build/CMakeFiles/edit_cache.dir
+/home/heming/Desktop/work_sk/cali_tool_choose/pointcloud_ring_judge_test/build/CMakeFiles/test.dir
